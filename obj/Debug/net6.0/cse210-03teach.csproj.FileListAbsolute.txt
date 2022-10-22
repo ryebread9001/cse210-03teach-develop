@@ -1,0 +1,15 @@
+C:\Users\amnig\AppData\Local\Programs\Microsoft VS Code\cse210-03teach\bin\Debug\net6.0\cse210-03teach.exe
+C:\Users\amnig\AppData\Local\Programs\Microsoft VS Code\cse210-03teach\bin\Debug\net6.0\cse210-03teach.deps.json
+C:\Users\amnig\AppData\Local\Programs\Microsoft VS Code\cse210-03teach\bin\Debug\net6.0\cse210-03teach.runtimeconfig.json
+C:\Users\amnig\AppData\Local\Programs\Microsoft VS Code\cse210-03teach\bin\Debug\net6.0\cse210-03teach.dll
+C:\Users\amnig\AppData\Local\Programs\Microsoft VS Code\cse210-03teach\bin\Debug\net6.0\cse210-03teach.pdb
+C:\Users\amnig\AppData\Local\Programs\Microsoft VS Code\cse210-03teach\obj\Debug\net6.0\cse210-03teach.csproj.AssemblyReference.cache
+C:\Users\amnig\AppData\Local\Programs\Microsoft VS Code\cse210-03teach\obj\Debug\net6.0\cse210-03teach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amnig\AppData\Local\Programs\Microsoft VS Code\cse210-03teach\obj\Debug\net6.0\cse210-03teach.AssemblyInfoInputs.cache
+C:\Users\amnig\AppData\Local\Programs\Microsoft VS Code\cse210-03teach\obj\Debug\net6.0\cse210-03teach.AssemblyInfo.cs
+C:\Users\amnig\AppData\Local\Programs\Microsoft VS Code\cse210-03teach\obj\Debug\net6.0\cse210-03teach.csproj.CoreCompileInputs.cache
+C:\Users\amnig\AppData\Local\Programs\Microsoft VS Code\cse210-03teach\obj\Debug\net6.0\cse210-03teach.dll
+C:\Users\amnig\AppData\Local\Programs\Microsoft VS Code\cse210-03teach\obj\Debug\net6.0\refint\cse210-03teach.dll
+C:\Users\amnig\AppData\Local\Programs\Microsoft VS Code\cse210-03teach\obj\Debug\net6.0\cse210-03teach.pdb
+C:\Users\amnig\AppData\Local\Programs\Microsoft VS Code\cse210-03teach\obj\Debug\net6.0\cse210-03teach.genruntimeconfig.cache
+C:\Users\amnig\AppData\Local\Programs\Microsoft VS Code\cse210-03teach\obj\Debug\net6.0\ref\cse210-03teach.dll
